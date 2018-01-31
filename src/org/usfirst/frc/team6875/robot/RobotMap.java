@@ -20,10 +20,10 @@ public class RobotMap {
 	
 	// CANBus motors
 	
-	 public static boolean isTopRightInverted = true;
-	 public static boolean isTopLeftInverted = false;
-	 public static boolean isBottomRightInverted = false;
-	 public static boolean isBottomLeftInverted = true;
+	public static boolean isTopRightInverted = true;
+	public static boolean isTopLeftInverted = false;
+	public static boolean isBottomRightInverted = false;
+	public static boolean isBottomLeftInverted = true;
 	 
 	 
 	public static int topRight = 1;
