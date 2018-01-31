@@ -27,12 +27,12 @@ public class RobotMap {
 	 
 	 
 	public static int topRight = 1;
-    public static int bottomLeft = 2;
-    public static int topLeft = 3;
-    public static int bottomRight = 4;
+   	public static int bottomLeft = 2;
+   	public static int topLeft = 3;
+   	public static int bottomRight = 4;
     
-    public static int intake1 = 5;
-    public static int intake2 = 6;
+    	public static int intake1 = 5;
+    	public static int intake2 = 6;
     
     //Speed constant
     public static double intakeForward = 1;
